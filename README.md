@@ -10,6 +10,7 @@ Catálogo de alguns projetos Zabbix. Cada template e módulo possui um repositó
 
 ### Projetos
 
+- [Template: NetApp ONTAP Complete by HTTP](https://github.com/danielrc10/zabbix-template-netapp-ontap) — monitora clusters ONTAP pela API REST, incluindo hardware, capacidade, SAN, rede, SnapMirror, AutoSupport, EMS, quotas e File System Analytics.
 - [Template: UniFi Site Manager, Network e Protect](https://github.com/danielrc10/zabbix-template-unifi-site-manager) — monitora contas UniFi pela API oficial `api.ui.com`, com HTTP Agent, JavaScript LLD, disponibilidade de API/consoles/sites/dispositivos e cobertura segura das capacidades publicadas.
 - [Template: monitoramento centralizado de sites e certificados](https://github.com/danielrc10/zabbix-template-web-service-monitoring) — monitora vários sites HTTPS em um único host lógico no Zabbix 7.4, com descoberta automática, validade de certificados, status HTTP, tempo de resposta, triggers e dashboard.
 - [Módulo: Cards de status dinâmicos](https://github.com/danielrc10/zabbix-dynamic-status-cards) — widget genérico para montar cards com várias métricas, padrões de itens, limiares, valores exatos e cores configuráveis diretamente pela GUI.
@@ -40,6 +41,7 @@ Catalog of selected Zabbix projects. Each template and module has an independent
 
 ### Projects
 
+- [Template: NetApp ONTAP Complete by HTTP](https://github.com/danielrc10/zabbix-template-netapp-ontap#english) — monitors ONTAP clusters through the REST API, including hardware, capacity, SAN, network, SnapMirror, AutoSupport, EMS, quotas, and File System Analytics.
 - [Template: UniFi Site Manager, Network, and Protect](https://github.com/danielrc10/zabbix-template-unifi-site-manager#english) — monitors UniFi accounts through the official `api.ui.com` API using HTTP Agent, JavaScript LLD, API/console/site/device availability, and safe coverage of published capabilities.
 - [Template: centralized website and certificate monitoring](https://github.com/danielrc10/zabbix-template-web-service-monitoring#english) — monitors multiple HTTPS websites from a single logical host in Zabbix 7.4, including automatic discovery, certificate validity, HTTP status, response time, triggers, and a dashboard.
 - [Module: Dynamic Status Cards](https://github.com/danielrc10/zabbix-dynamic-status-cards) — generic widget for building cards with multiple metrics, item patterns, thresholds, exact values, and GUI-configurable colors.
